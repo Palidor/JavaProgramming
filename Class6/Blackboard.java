@@ -89,18 +89,5 @@ public class Blackboard {
         // for (initialization; condition; iteration) {
         //     statement sequence
         // }
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
     }
 }
